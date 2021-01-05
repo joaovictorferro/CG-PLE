@@ -19,3 +19,23 @@
 
 ## Tela
 ![alt text](https://github.com/joaovictorferro/CG-PLE/blob/main/images/tela1.PNG)
+
+## Comandos:
+- W anda para frente
+- S anda para trás
+- A anda para a esquerda
+- D anda para a direita
+- O abre a porta
+- P fecha a porta
+- K abre a janela
+- L fecha a janela
+- obs: com o mause você pode olhar ao redor do quarto
+
+## link do video no youtube:
+- https://www.youtube.com/watch?v=1jpgjBA8L3k
+
+## referências
+- 1º- Curso de opengl no youtube do professor Sergio Silva https://www.youtube.com/watch?v=IejsK...
+- 2º http://www.ceset.unicamp.br/~magic/op...
+- 3° http://lab.bachem-it.com/opengl/redbook/
+- 4º http://www.glprogramming.com/red/

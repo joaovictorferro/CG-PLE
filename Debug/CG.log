@@ -1,0 +1,45 @@
+﻿  main.cpp
+c:\users\joao-\documents\cg\cores.h(3): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\cores.h(5): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\cores.h(9): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\cores.h(10): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\cores.h(11): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\cores.h(12): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\cores.h(13): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\cores.h(14): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\primitivas.h(113): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\primitivas.h(120): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\joao-\documents\cg\camera.h(16): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(104): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\joao-\documents\cg\main.cpp(111): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\joao-\documents\cg\main.cpp(154): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\joao-\documents\cg\main.cpp(161): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\joao-\documents\cg\main.cpp(429): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\joao-\documents\cg\main.cpp(432): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\joao-\documents\cg\main.cpp(433): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\joao-\documents\cg\main.cpp(444): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+c:\users\joao-\documents\cg\main.cpp(515): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(516): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(517): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\joao-\documents\cg\main.cpp(518): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\joao-\documents\cg\main.cpp(520): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(521): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(522): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\joao-\documents\cg\main.cpp(523): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\joao-\documents\cg\main.cpp(529): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(532): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(535): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(538): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(541): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(542): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(548): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(549): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(550): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(551): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(552): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(553): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\joao-\documents\cg\main.cpp(554): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(555): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(556): warning C4305: 'argumento': truncamento de 'double' para 'float'
+c:\users\joao-\documents\cg\main.cpp(557): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  CG.vcxproj -> C:\Users\joao-\Documents\CG\Debug\CG.exe

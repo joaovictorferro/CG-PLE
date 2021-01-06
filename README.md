@@ -39,3 +39,9 @@
 - 2º http://www.ceset.unicamp.br/~magic/op...
 - 3° http://lab.bachem-it.com/opengl/redbook/
 - 4º http://www.glprogramming.com/red/
+
+## Modo de uso:
+- IDE Visual Studio 2017
+- Bibliotecas utilizadas:
+-- GLFW
+-- stb_image
